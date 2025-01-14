@@ -1,0 +1,28 @@
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\bin\Debug\net8.0\MyApp.exe
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\bin\Debug\net8.0\MyApp.deps.json
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\bin\Debug\net8.0\MyApp.dll
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\bin\Debug\net8.0\MyApp.pdb
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\MyApp.dll
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\MyApp.pdb
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+C:\Users\victor\Desktop\BYU C# WORK\MyApp\obj\Debug\net8.0\ref\MyApp.dll
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\bin\Debug\net8.0\MyApp.exe
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\bin\Debug\net8.0\MyApp.deps.json
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\bin\Debug\net8.0\MyApp.dll
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\bin\Debug\net8.0\MyApp.pdb
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\MyApp.dll
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\MyApp.pdb
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+C:\Users\victor\Desktop\BYUCsharpProject\MyApp\obj\Debug\net8.0\ref\MyApp.dll
